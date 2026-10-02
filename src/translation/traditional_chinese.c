@@ -2371,3 +2371,4 @@ void translation_traditional_chinese(const translation_string **strings, int *nu
     *strings = all_strings;
     *num_strings = sizeof(all_strings) / sizeof(translation_string);
 }
+
